@@ -1,5 +1,5 @@
 # Virtual Study Room
-
+## WebRTC Video Conferencing Application - Peer to Peer
 A real-time video conferencing application designed for study groups, allowing up to 5 participants per room with video and audio capabilities.
 
 ## Features
@@ -207,15 +207,3 @@ Example class usage:
 3. CORS is configured for security
 4. Environment variables for sensitive data
 5. WebRTC connections use STUN servers for NAT traversal
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
